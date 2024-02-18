@@ -1,7 +1,6 @@
 ### Building an Eco-Challenges App with Flutter | Flutter App Development Tutorial
 
-A new Flutter project.
-###In this Flutter app development tutorial, we'll build an Eco-Challenges App that encourages users to participate in eco-friendly activities. With Flutter's UI toolkit, we'll create a dynamic app where users can explore various eco-challenges and track their progress.
+##In this Flutter app development tutorial, we'll build an Eco-Challenges App that encourages users to participate in eco-friendly activities. With Flutter's UI toolkit, we'll create a dynamic app where users can explore various eco-challenges and track their progress.
 
 ##The app features:
 
